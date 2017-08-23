@@ -1,4 +1,4 @@
-package sparkedandlibrary.rz.com.mylibrary;
+package com.rz.core;
 
 import android.app.Activity;
 import android.graphics.Typeface;

@@ -1,4 +1,4 @@
-package sparkedandlibrary.rz.com.mylibrary;
+package com.rz.core;
 
 import org.junit.Test;
 
