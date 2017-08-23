@@ -1,0 +1,24 @@
+git init
+git remote add Android-2017 git@github.com:rzrasel/Android-2017.git
+git checkout -b master
+git pull https://github.com/rzrasel/And-Sparked-Library.git
+git add .
+git commit -m "Add New Project"
+git push https://github.com/rzrasel/And-Sparked-Library.git --all
+
+
+git pull <remote> <branch>
+git pull https://keyboard.git master
+
+git push <remote> <branch>
+git push https://keyboard.git
+And-Library-Dialog-V-1.0.0  (NOT WORK)
+
+
+git init
+git remote add origin https://github.com/rzrasel/And-Sparked-Library.git
+git remote -v
+git fetch && git checkout master
+git add .
+git commit -m "Add Library Project File"
+git push --all
