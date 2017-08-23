@@ -1,1 +1,2 @@
-include ':app', ':librarycore', ':librarydynamicmodeladapter'
+include ':app'
+//':librarycore', ':librarydynamicmodeladapter'
