@@ -1,10 +1,10 @@
 git init
 git remote add Android-2017 git@github.com:rzrasel/Android-2017.git
 git checkout -b master
-git pull https://github.com/rzrasel/And-Sparked-Library.git
+git pull https://github.com/rzrasel/and-sparked-library.git
 git add .
 git commit -m "Add New Project"
-git push https://github.com/rzrasel/And-Sparked-Library.git --all
+git push https://github.com/rzrasel/and-sparked-library.git --all
 
 
 git pull <remote> <branch>
@@ -16,7 +16,7 @@ And-Library-Dialog-V-1.0.0  (NOT WORK)
 
 
 git init
-git remote add origin https://github.com/rzrasel/And-Sparked-Library.git
+git remote add origin https://github.com/rzrasel/and-sparked-library.git
 git remote -v
 git fetch && git checkout master
 git add .
